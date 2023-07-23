@@ -45,7 +45,7 @@ const Navbar = () => {
                       <h1 className='navhi'>Knowledge</h1>
                     </Link>
                     <Link to='#contact' className='navh' smooth>
-                      <h1 className='navhi'>Contect me</h1>
+                      <h1 className='navhi'>Contact me</h1>
                     </Link>
                 </div>
             </div>
@@ -78,7 +78,7 @@ const Navbar = () => {
               <h1 className='navhi' onClick={off}>Knowledge</h1>
             </Link>
             <Link to='#contact' className='navh' smooth>
-              <h1 className='navhi' onClick={off}>Contect me</h1>
+              <h1 className='navhi' onClick={off}>Contact me</h1>
             </Link>
           </div>
         </div>
