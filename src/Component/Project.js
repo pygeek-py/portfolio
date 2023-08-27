@@ -29,6 +29,10 @@ const Project = () => {
         window.location = 'https://swapzx.netlify.app/'
     }
 
+    const trade = () => {
+        window.location = 'https://trade-i0n9.onrender.com'
+    }
+
   return (
     <div id='project'>
         <div className='pro1'>
@@ -61,6 +65,13 @@ const Project = () => {
                     <h1 className='pro6'>This is a site for crypto mining, In which this site was made using React.</h1>
                     
                     <h1 className='pro7iii' onClick={swap}>View project</h1>
+                </div>
+
+                <div className='pro4iiii' data-aos="fade-down" data-aos-delay="900">
+                    <h1 className='pro5'>Colaecom</h1>
+                    <h1 className='pro6'>This is an E-commerce website use for buying clothes, In which this site was made using React and Django.</h1>
+                    
+                    <h1 className='pro7iiii' onClick={trade}>View project</h1>
                 </div>
             </div>
             <h1 className='pro8' onClick={tos}>Repository on github</h1>

@@ -305,6 +305,16 @@ body {
   margin-bottom: 2%;
   padding: 2%;
 }
+.pro4iiii {
+  width: 28%;
+  height: fit-content;
+  background-color: #111111;
+  border: 1px solid rgb(236, 163, 236);
+  border-radius: 0.2rem;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  padding: 2%;
+}
 .pro5 {
   font-size: 2rem;
   font-weight: 600;
@@ -392,6 +402,23 @@ body {
   border-bottom-width: 1.1px;
   width: fit-content;
   border-bottom-color: #daa520;
+}
+.pro7iiii {
+  font-size: 1.2rem;
+  font-weight: 200;
+  opacity: 0.9;
+  padding-top: 6%;
+  color: rgb(236, 163, 236);
+  letter-spacing: 0.1rem;
+  transition: 150ms ease-out;
+  cursor: pointer;
+}
+.pro7iiii:hover {
+  padding-bottom: 0.5%;
+  border-bottom-style: solid ;
+  border-bottom-width: 1.1px;
+  width: fit-content;
+  border-bottom-color: rgb(236, 163, 236);
 }
 .pro8 {
   font-size: 1.4rem;
@@ -900,6 +927,16 @@ body {
   margin-bottom: 2%;
   padding: 8%;
 }
+.pro4iiii {
+  width: 98%;
+  height: fit-content;
+  background-color: #111111;
+  border: 1px solid rgb(236, 163, 236);
+  border-radius: 0.2rem;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  padding: 8%;
+}
 .pro5 {
   font-size: 2rem;
   font-weight: 600;
@@ -987,6 +1024,23 @@ body {
   border-bottom-width: 1.1px;
   width: fit-content;
   border-bottom-color: #daa520;
+}
+.pro7iiii {
+  font-size: 1.2rem;
+  font-weight: 200;
+  opacity: 0.9;
+  padding-top: 6%;
+  color: rgb(236, 163, 236);
+  letter-spacing: 0.1rem;
+  transition: 150ms ease-out;
+  cursor: pointer;
+}
+.pro7iiii:hover {
+  padding-bottom: 0.5%;
+  border-bottom-style: solid ;
+  border-bottom-width: 1.1px;
+  width: fit-content;
+  border-bottom-color: rgb(236, 163, 236);
 }
 .pro8 {
   font-size: 1.4rem;
